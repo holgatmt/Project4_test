@@ -45,20 +45,30 @@ Description of the data and changes
 
 
 ## Comparison of the mimic and the authentic PTM
+  The RMSD between the PTM model and the mimic variant was 0.37 Å. There are no major structural or functional differences besides the additional hydrogen bonds that the PTM possesses. The additional hydrogen bonds may affect the way the enzyme unfolds or folds under varying pressures or temperatures but it does not seem to have any effect on the enzyme's ability to convert malate into oxaloacetate. The mimic is a good approximation of the PTM as it has similar hydrogen bonds and does not affect the active site or any binding sites.
 
-Part 4 from the Project 4 report outline
-include images as needed
+Alignment of PTM and mimic variant model. RMSD value of 0.37.
+![alt text](images/align_PTM_vs_mimic.png)
+
+Alignment of PTM and mimic variant at the modification site, amino acid 23.
+![alt text](images/align_PTM_vs_mimic_site.png)
 
 
 ### Colab notebook links
-
 Provide file names of completed colab notebooks
 
+Step 1:
+[Mimic_MD_simulation_Step1.ipynb](data/colab_1/Mimic_MD_simulation_Step1.ipynb),
+[hMDH1_MD_simulation_Step1.ipynb](data/colab_1/hMDH1_MD_simulation_Step1.ipynb)
+
+Step 2:
+[Mimic_mdanalysis_colab_Step2.ipynb](data/colab_2/Mimic_mdanalysis_colab_Step2.ipynb),
+[hMDH1_mdanalysis_colab_Step2.ipynb](data/colab_2/hMDH1_mdanalysis_colab_Step2.ipynb)
 
 
 ## Authors
 
-Contributors names
+Michael T. Holgate
 
 ## Deposition Date
 

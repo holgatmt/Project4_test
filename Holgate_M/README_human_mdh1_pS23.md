@@ -6,7 +6,7 @@
 
 ## Description
 
-# This project details the phosphorylation of Serine 23 on human MDH1. No prior research has been found for this specific modification site of Serine 23. It is located on an α-helix. It is positioned near the middle of the protein, close to the other monomer of the dimer. Being so close to the other monomer also means that it is close to its counterpart. It is near the NAD+/NADH substrate binding sites of 11-17, GAAGQIA; however, it is unlikely that the binding site is affected by the modification. The modification site is not close to the active site, likely having no effect on its function. The unmodified state does not form any weak interactions. The modified state contains a phosphoserine interacting with many amino acids. The mimic variant consists of an aspartic acid hydrogen bonding to asparagine 26.
+This project details the phosphorylation of Serine 23 on human MDH1. No prior research has been found for this specific modification site of Serine 23. It is located on an α-helix. It is positioned near the middle of the protein, close to the other monomer of the dimer. Being so close to the other monomer also means that it is close to its counterpart. It is near the NAD+/NADH substrate binding sites of 11-17, GAAGQIA; however, it is unlikely that the binding site is affected by the modification. The modification site is not close to the active site, likely having no effect on its function. The unmodified state does not form any weak interactions. The modified state contains a phosphoserine interacting with many amino acids. The mimic variant consists of an aspartic acid hydrogen bonding to asparagine 26.
 
 1. image of the unmodified site
 ![alt text](images/align_all3models.png)

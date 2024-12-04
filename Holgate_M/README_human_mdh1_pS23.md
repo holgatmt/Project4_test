@@ -28,10 +28,11 @@ This project details the phosphorylation of Serine 23 on human MDH1. No prior re
 
 Part 3 from the Project 4 report
 
-1. Image of aligned PDB files (no solvent)
-![alt text](images/
+1. Image of aligned PDB files OG vs Mimic
+![alt text](images/postMD_alignment_OG_vs_mimic_full.png)
 
-3. Image of the site with the aligned PDB files (no solvent)
+3. Image of the site with the aligned PDB files OG vs Mimic
+![alt text](images/postMD_alignment_OG_vs_mimic_site.png)
 
 4. Annotated RMSF plot showing differences between the simulations
 ![alt text](images/XXX.png)

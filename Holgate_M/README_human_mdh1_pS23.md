@@ -29,15 +29,16 @@ This project details the phosphorylation of Serine 23 on human MDH1. No prior re
 Part 3 from the Project 4 report
 
 1. Image of aligned PDB files (no solvent)
+![alt text](images/
 
-2. Image of the site with the aligned PDB files (no solvent)
+3. Image of the site with the aligned PDB files (no solvent)
 
-3. Annotated RMSF plot showing differences between the simulations
+4. Annotated RMSF plot showing differences between the simulations
 ![alt text](images/XXX.png)
 
-4. Annotated plots of pKa for the key amino acids
+5. Annotated plots of pKa for the key amino acids
 
-5. If needed, show ligand bound images and how modification affects substrate binding
+6. If needed, show ligand bound images and how modification affects substrate binding
 
 Description of the data and changes
 

@@ -35,7 +35,7 @@ Part 3 from the Project 4 report
 ![alt text](images/postMD_alignment_OG_vs_mimic_site.png)
 
 4. Annotated RMSF plot showing differences between the simulations
-![alt text](images/XXX.png)
+![alt text](images/RMSF_comparison.png)
 
 5. Annotated plots of pKa for the key amino acids
 
